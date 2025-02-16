@@ -3,9 +3,7 @@ JourneyMap Language Files
 
 [![Website](https://img.shields.io/badge/Website-journeymap.info-FF7139?logo=Mozilla%20Firefox)](https://journeymap.info) [![Discord](https://img.shields.io/discord/239040424214396929?color=7289DA&label=Discord&logo=Discord)](https://discord.gg/eP8gE69)
 
-This repository contains the latest version of the language files that are used by the mod. We're making these public
-in order to allow for additions to be made by the community. If you'd like to add translations for your language
-(or correct the translations already preset), please see below for information on contributing.
+Este repositório contém a versão mais recente dos ficheiros de idioma utilizados pelo mod. Estamos a torná-lo público para permitir que adições sejam feitas pela comunidade. Se quiser adicionar traduções para o seu idioma (ou corrigir as traduções já predefinidas), veja abaixo informações sobre como contribuir.
 
 [![Creative Commons BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 This work is licensed under a 
